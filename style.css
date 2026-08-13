@@ -1,0 +1,11 @@
+
+header {font-size: 40px;}
+.front_text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text {font-size: 20px;}
+img {height: 30rem;width: 100%; }
+
+p {font-size: 19px;}
